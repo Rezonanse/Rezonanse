@@ -20,7 +20,7 @@ tags: solana sniper bot , solana dex sniper,solana token sniper
 
 
 
-# Follow to telegram to get updates https://t.me/+H-cRWDnJFoc5Yjgy
+# Follow to telegram to get updates https://t.me/+PNoHqrZ5O0FlZmZi
 
 
 
